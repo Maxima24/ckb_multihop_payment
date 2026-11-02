@@ -1,4 +1,4 @@
-# Paying across Fiber without a direct channel
+# CKB CAMPAIGN 7 :(MULTI-HOP PAYEMNT), Paying across Fiber without a direct channel
 
 This is my submission for the CKBoost Fiber multi-hop campaign.
 
